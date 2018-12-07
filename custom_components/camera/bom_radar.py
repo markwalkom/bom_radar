@@ -70,8 +70,6 @@ class BOMRadar(Camera):
 
     def radar_update(self):
 
-        _LOGGER.error("Update requested.")
-
         if not self._base_image:
             self.radar_background()
 
