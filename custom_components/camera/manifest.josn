@@ -1,0 +1,8 @@
+{
+	"domain": "bom_radar",
+	"name": "BOM Radar",
+	"documentation": "https://github.com/bremor/bom_radar",
+	"dependencies": [],
+	"codeowners": [],
+	"requirements": []
+}
